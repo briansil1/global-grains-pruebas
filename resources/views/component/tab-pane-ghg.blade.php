@@ -58,6 +58,7 @@
         </p>
     </div>
 </div>
+
 <div class="row p-2 tab-chartghg-container">
     <div class="d-flex align-items-start">
         <div class="nav flex-column nav-pills me-3" id="v-ghg-tab" role="tablist" aria-orientation="vertical">
